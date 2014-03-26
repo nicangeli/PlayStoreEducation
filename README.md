@@ -1,4 +1,4 @@
-## Play Store Scraper
+## App Store Scraper
 
 ## Usage
 
